@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources/org/geoserver/monitor/rest
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources/org/geoserver/monitor/rest/style.css
+END
+geoserver.css
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources/org/geoserver/monitor/rest/geoserver.css
+END
+request.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources/org/geoserver/monitor/rest/request.html
+END
+requests.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources/org/geoserver/monitor/rest/requests.html
+END

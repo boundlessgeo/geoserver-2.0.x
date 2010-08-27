@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/hib
+END
+H2Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/hib/H2Dialect.java
+END
+HibernateMonitorDAO2.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/hib/HibernateMonitorDAO2.java
+END
+MonitoringDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/hib/MonitoringDataSource.java
+END
+EntityManagerFactoryPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/hib/EntityManagerFactoryPostProcessor.java
+END
+EnumUserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/hib/EnumUserType.java
+END
+ErrorUserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/hib/ErrorUserType.java
+END
+HibernateMonitorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/hib/HibernateMonitorDAO.java
+END

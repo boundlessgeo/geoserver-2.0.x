@@ -138,5 +138,11 @@
         <module>ftp</module>
       </modules>
     </profile>
+    <profile>
+      <id>monitoring</id>
+      <modules>
+        <module>monitoring</module>
+      </modules>
+    </profile>
   </profiles>
 </project>

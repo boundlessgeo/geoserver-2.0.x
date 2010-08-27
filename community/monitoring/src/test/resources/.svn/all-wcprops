@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/test/resources
+END
+applicationContext-hibtest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/test/resources/applicationContext-hibtest.xml
+END

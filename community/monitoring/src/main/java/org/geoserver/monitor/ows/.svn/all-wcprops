@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/ows
+END
+MonitorCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/geoserver/!svn/ver/14755/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/ows/MonitorCallback.java
+END
+ControlFlowCallbackProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/geoserver/!svn/ver/14755/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/ows/ControlFlowCallbackProxy.java
+END
+RequestObjectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/ows/RequestObjectHandler.java
+END

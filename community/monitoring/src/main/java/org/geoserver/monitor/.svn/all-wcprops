@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor
+END
+RequestDataVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/RequestDataVisitor.java
+END
+MemoryMonitorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/MemoryMonitorDAO.java
+END
+MonitorServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/MonitorServletRequest.java
+END
+MonitorRequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/MonitorRequestFilter.java
+END
+GeoIPPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/GeoIPPostProcessor.java
+END
+MonitorServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/MonitorServletResponse.java
+END
+MonitorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/MonitorDAO.java
+END
+MonitorQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/MonitorQuery.java
+END
+MonitorConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/MonitorConfig.java
+END
+RequestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/RequestData.java
+END
+ReverseDNSPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/ReverseDNSPostProcessor.java
+END
+PipeliningTaskQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/PipeliningTaskQueue.java
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/Monitor.java
+END
+MonitorFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/MonitorFilter.java
+END
+JDBCMonitorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/JDBCMonitorDAO.java
+END
