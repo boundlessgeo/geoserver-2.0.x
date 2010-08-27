@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web
+END
+DailyActivityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/DailyActivityPanel.java
+END
+OWSSummaryPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/OWSSummaryPage.html
+END
+OWSSummaryChartBasePanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/OWSSummaryChartBasePanel.html
+END
+ReportPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/ReportPage.java
+END
+ActivityPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/ActivityPage.html
+END
+ActivityChartBasePanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/ActivityChartBasePanel.html
+END
+OWSOverviewPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/OWSOverviewPanel.java
+END
+MonitorBasePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/MonitorBasePage.java
+END
+LiveActivityPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/LiveActivityPanel.html
+END
+OWSSummaryPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/OWSSummaryPage.java
+END
+OWSSummaryChartBasePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/OWSSummaryChartBasePanel.java
+END
+MonthlyActivityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/MonthlyActivityPanel.java
+END
+ActivityPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/ActivityPage.java
+END
+ActivityChartBasePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/ActivityChartBasePanel.java
+END
+ReportPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/ReportPage.html
+END
+LiveActivityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/LiveActivityPanel.java
+END
+WeeklyActivityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/WeeklyActivityPanel.java
+END
+OWSDetailsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/java/org/geoserver/monitor/web/OWSDetailsPanel.java
+END

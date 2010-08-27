@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources
+END
+GeoServerApplication.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources/GeoServerApplication.properties
+END
+mappings.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/geoserver/!svn/ver/14755/trunk/src/community/monitoring/src/main/resources/mappings.hbm.xml
+END
+applicationContext-hib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources/applicationContext-hib.xml
+END
+applicationContext-hib2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources/applicationContext-hib2.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/main/resources/hibernate.cfg.xml
+END

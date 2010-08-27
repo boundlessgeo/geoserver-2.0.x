@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/test/resources/org/geoserver/monitor
+END
+wms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/geoserver/!svn/ver/14753/trunk/src/community/monitoring/src/test/resources/org/geoserver/monitor/wms.xml
+END
