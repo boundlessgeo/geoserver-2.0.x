@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Date;
@@ -66,9 +67,9 @@ public class RequestResource extends ReflectiveResource {
             List<String> props = 
                 OwsUtils.getClassProperties(RequestData.class).properties();
             
-            props.remove("class");
-            props.remove("body");
-            props.remove("error");
+            props.remove("Class");
+            props.remove("Body");
+            props.remove("Error");
             
             return new CSVFormat(props.toArray(new String[props.size()]));
         }
@@ -195,6 +196,8 @@ public class RequestResource extends ReflectiveResource {
     
     static class CSVFormat extends StreamDataFormat {
 
+        static SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
+        
         String[] fields;
         protected CSVFormat(String[] fields) {
             super(new MediaType("application/csv"));
@@ -225,8 +228,11 @@ public class RequestResource extends ReflectiveResource {
             for (RequestData r : requests) {
                 for (String fld : fields) {
                     Object val = OwsUtils.get(r, fld);
+                    if (val instanceof Date) {
+                        val = DATE_FORMAT.format((Date)val);
+                    }
                     if (val != null) {
-                        val = val.toString().replaceAll(",", " ");
+                        val = val.toString().replaceAll(",", " ").replaceAll("\n", " ");
                     }
                     sb.append(val).append(",");
                 }
