@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
-import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Date;
@@ -16,7 +15,6 @@ import org.geoserver.monitor.MonitorQuery;
 import org.geoserver.monitor.RequestData;
 import org.geoserver.monitor.MonitorQuery.Comparison;
 import org.geoserver.monitor.MonitorQuery.SortOrder;
-import org.geoserver.ows.util.ClassProperties;
 import org.geoserver.ows.util.OwsUtils;
 import org.geoserver.rest.ReflectiveResource;
 import org.geoserver.rest.RestletException;
@@ -24,6 +22,7 @@ import org.geoserver.rest.format.DataFormat;
 import org.geoserver.rest.format.MediaTypes;
 import org.geoserver.rest.format.ReflectiveHTMLFormat;
 import org.geoserver.rest.format.StreamDataFormat;
+import org.geotools.feature.type.DateUtil;
 import org.geotools.util.Converters;
 import org.restlet.data.Form;
 import org.restlet.data.MediaType;
@@ -195,8 +194,6 @@ public class RequestResource extends ReflectiveResource {
     }
     
     static class CSVFormat extends StreamDataFormat {
-
-        static SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
         
         String[] fields;
         protected CSVFormat(String[] fields) {
@@ -229,7 +226,7 @@ public class RequestResource extends ReflectiveResource {
                 for (String fld : fields) {
                     Object val = OwsUtils.get(r, fld);
                     if (val instanceof Date) {
-                        val = DATE_FORMAT.format((Date)val);
+                        val = DateUtil.serializeDateTime((Date)val);
                     }
                     if (val != null) {
                         val = val.toString().replaceAll(",", " ").replaceAll("\n", " ");
